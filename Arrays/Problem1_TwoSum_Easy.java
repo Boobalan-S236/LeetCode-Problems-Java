@@ -1,6 +1,6 @@
 // Problem: 1. Two Sum
 // Link: https://leetcode.com/problems/two-sum/
-// Difficulty: Easy
+// Difficulty: Easy.
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
