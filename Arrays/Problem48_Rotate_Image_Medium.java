@@ -1,5 +1,5 @@
-// Problem: 48. Rotate Image
-// Link: https://leetcode.com/problems/rotate-image
+// Problem: 14. 26. Remove Duplicates from Sorted Array
+// Link: https://leetcode.com/problems/rotate-rmage
 // Difficulty: Medium
 
 class Solution {
