@@ -1,4 +1,4 @@
-// Problem: 14. 26. Remove Duplicates from Sorted Array
+// Problem: 48- Rotate_Image_medium
 // Link: https://leetcode.com/problems/rotate-rmage
 // Difficulty: Medium
 
