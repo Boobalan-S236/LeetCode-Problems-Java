@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0367-valid-perfect-square) |
+| [2235-add-two-integers](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
