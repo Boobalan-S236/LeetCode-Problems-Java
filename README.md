@@ -13,6 +13,7 @@
 | [0905-sort-array-by-parity](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0905-sort-array-by-parity](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
