@@ -14,7 +14,6 @@ class Solution {
             }
         }
         slow=0;fast=0;
-        System.out.println(slow +""+fast);
         while(fast<nums.length){
             if(nums[fast] != 0){
                 int temp = nums[fast];
