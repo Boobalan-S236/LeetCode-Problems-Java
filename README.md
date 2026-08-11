@@ -24,6 +24,7 @@
 | [1470-shuffle-the-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1929-concatenation-of-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 ## Simulation
 |  |
 | ------- |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
