@@ -7,11 +7,11 @@ class Solution {
                     int s1=nums[j] - nums[i];
                     int s2=nums[k] - nums[j];
                     
-                    if(i!=j && j!=k && k!=i){
+                
                         if((s1 == diff) && (s2 == diff)){
                             c++;
                         }
-                    }
+                    
                 }
             }
         }
