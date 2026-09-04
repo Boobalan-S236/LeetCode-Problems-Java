@@ -26,6 +26,7 @@
 | [1470-shuffle-the-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
@@ -50,6 +51,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
