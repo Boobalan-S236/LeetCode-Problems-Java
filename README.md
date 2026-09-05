@@ -20,6 +20,7 @@
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -47,6 +48,7 @@
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -67,6 +69,7 @@
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -104,6 +107,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0948-bag-of-tokens) |
 ## Timsort
 |  |
 | ------- |
