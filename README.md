@@ -23,6 +23,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1089-duplicate-zeros) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
