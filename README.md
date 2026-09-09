@@ -25,6 +25,7 @@
 | [1089-duplicate-zeros](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1929-concatenation-of-array) |
@@ -121,4 +122,9 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
