@@ -30,6 +30,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1470-shuffle-the-array) |
+| [1652-defuse-the-bomb](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -130,6 +131,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
