@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0948-bag-of-tokens) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0904-fruit-into-baskets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
