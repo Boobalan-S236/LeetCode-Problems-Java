@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0367-valid-perfect-square) |
@@ -141,6 +143,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0930-binary-subarrays-with-sum) |
@@ -156,6 +159,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1248-count-number-of-nice-subarrays) |
