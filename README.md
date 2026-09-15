@@ -42,6 +42,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
