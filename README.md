@@ -36,6 +36,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1929-concatenation-of-array) |
@@ -153,6 +154,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0992-subarrays-with-k-different-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
