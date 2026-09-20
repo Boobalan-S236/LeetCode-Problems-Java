@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0905-sort-array-by-parity) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1248-count-number-of-nice-subarrays) |
