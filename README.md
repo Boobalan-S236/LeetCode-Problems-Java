@@ -43,6 +43,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -177,6 +178,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
