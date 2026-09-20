@@ -1,16 +1,15 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int count=0,sum=0;
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        hm.put(0,1);
+        int sum=0,count=0;
 
-        for(int i=0;i<nums.length;i++){
-
-            for(int j=i;j<nums.length;j++){
-                sum+=nums[j];
-                if(sum == k){
-                    count++;
-                }
+        for(int n:nums){
+            sum+=n;
+            if(hm.containsKey(sum-k)){
+                count+=hm.get(sum-k);
             }
-            sum=0;
+            hm.put(sum,hm.getOrDefault(sum,0)+1); // new means add incase already exist means we needed to update the frequence 
         }
         return count;
     }
