@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0881-boats-to-save-people) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1004-max-consecutive-ones-iii) |
