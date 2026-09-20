@@ -47,6 +47,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Boobalan-S236/LeetCode-Problems-Java/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
 |  |
 | ------- |
