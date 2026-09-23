@@ -8,7 +8,6 @@ class Solution {
                 nums[i]=-1;
             }
         }
-        System.out.print(Arrays.toString(nums));
         for(int i=0;i<=nums.length-1;i++){
             ps+=nums[i];
             if(hm.containsKey(ps)){
